@@ -1,0 +1,502 @@
+body {
+    
+    background:url(backgroun.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.container-left h1 {
+    position: absolute;
+    width: 113px;
+    height: 30px;
+    left: 80px;
+    top: 50px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 25px;
+    line-height: 30px;
+    letter-spacing: 0.06em;
+    
+    color: #FFFFFF;
+}
+.container-left h2 {
+    
+    position: absolute;
+    width: 633.52px;
+    height: 200px;
+    left: 80px;
+    top: 235px;
+    
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 64px;
+    line-height: 100px;
+     
+    color: #FFFFFF;
+    
+}
+
+.container-left p.pembuka {
+    position: absolute;
+    width: 614.69px;
+    height: 80px;
+    left: 80px;
+    top: 455px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 40px;
+    
+    
+    
+    color: #FFFFFF;
+}
+
+.container-right {
+    position: absolute;
+    width: 430px;
+    height: 607px;
+    left: 930px;
+    top: 82px;
+
+    background: rgba(255, 255, 255, 0.3);
+    box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.1);
+    border: 10px;
+    border-radius: 15px;
+}
+
+.container-right p.daftar {
+    
+    width: 99px;
+    
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 39px;
+
+
+    color: #FBFBFB;
+}
+
+.container-right label {
+    
+
+    text-align: left;
+    width: 106px;
+    height: 19px;
+    left: 962px;
+    top: 181px;
+
+    margin-left: 50px;
+
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: white;
+
+}
+
+.container-right input {
+    
+    width: 75%;
+    height: 50px;
+
+    margin-top: 10px;
+  
+    background: #FBFBFB;
+
+    border: 5px;
+    border-radius: 7px;
+
+}
+.container-right button {
+    width: 75%;
+    height: 50px;
+    left: 962px;
+    top: 609px;
+
+    margin-top: 25px;
+    margin-bottom: 10px;
+    
+    background: #1FD5EE;
+
+    box-shadow: 0px 4px 44px rgba(113, 238, 255, 0.35);
+    border: 5px;
+    border-radius: 4px;
+}
+
+.container h3.pertama {
+    
+    
+    width: 455px;
+    height: 40px;
+    left: 736px;
+    top: 984px;
+
+    margin-top: 1000px;
+
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 34px;
+    line-height: 40px;
+   
+    color: #012A40;
+}
+
+.container p.pertama {
+    
+    width: 624px;
+    height: 120px;
+    left: 736px;
+    top: 1064px;
+    margin-top: 50px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 40px;
+    
+    color: #012A40;
+}
+
+.container p.pertama2 {
+    
+    width: 118px;
+    height: 29px;
+    left: 80px;
+    top: 1862px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 40px;
+    
+
+    color: #1FD5EE;
+}
+
+.container-left img.gambar1 {
+    
+    width: 100%;
+   
+    margin-top: 100px;
+
+    box-sizing: border-box;
+    position: absolute;
+    width: 558.22px;
+    height: 445.1px;
+    left: 80px;
+    top: 927.45px;
+
+    border: 3px solid #1FD5EE;
+}
+
+.container-left h3.kedua {
+    position: absolute;
+    width: 436px;
+    height: 78px;
+    left: 80px;
+    top: 1604px;
+
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 34px;
+    line-height: 40px;
+    
+    color: #012A40;
+
+}
+
+.container-left p.kedua {
+    position: absolute;
+    width: 624px;
+    height: 109px;
+    left: 80px;
+    top: 1693.89px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 40px;
+    
+    color: #012A40;
+
+}
+
+.container-left p.kedua2 {
+    position: absolute;
+    width: 118px;
+    height: 29px;
+    left: 80px;
+    top: 1862px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 40px;
+    /* or 200% */
+
+
+    color: #1FD5EE;
+}
+
+.container img.gambar2 {
+    
+    width: 558.22px;
+    height: 445.1px;
+    left: auto;
+    top: auto;
+
+    margin-top: 150px;
+
+    box-sizing: border-box;
+    position: absolute;
+    border: 3px solid #1FD5EE;
+}
+
+.container h3.ketiga {
+    
+    width: 455px;
+    height: 40px;
+    left: 746px;
+    top: 2222.56px;
+
+    margin-top: 800px;
+
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 34px;
+    line-height: 40px;
+    
+
+
+    color: #012A40;
+
+}
+
+.container p.ketiga {
+    
+    width: 624px;
+    height: 120px;
+    left: 746px;
+    top: 2302.56px;
+
+    margin-top: 50px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 40px;
+    
+
+
+    color: #012A40;
+}
+
+.container p.ketiga2 {
+    
+    width: 111px;
+    height: 40px;
+    left: 746px;
+    top: 2481.11px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 40px;
+    /* identical to box height, or 200% */
+
+
+    color: #1FD5EE;
+}
+
+.container-left img.gambar3 {
+    
+    width: 558.22px;
+    height: 497.56px;
+    left: 115.78px;
+    top: 2093.56px;
+
+    margin-top: 150px;
+
+    background: url(.jpg), #F4F4F4;
+
+
+    box-sizing: border-box;
+    width: 558.22px;
+    height: 497.56px;
+    left: 80px;
+    top: 2133.56px;
+
+    border: 3px solid #1FD5EE;
+}
+
+.text-penutup h3.penutup {
+    
+    width: 252px;
+    height: 40px;
+    left: 610px;
+    margin-top: 2751.67px;
+    
+
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 42px;
+    line-height: 40px;
+    /* identical to box height, or 95% */
+
+
+    color: #012A40;
+
+}
+
+.text-penutup p.penutup {
+    
+    width: 615.55px;
+    height: 64px;
+    left: 412.22px;
+    top: 2831.67px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    
+
+    text-align: center;
+
+    color: #012A40;
+
+}
+
+.kolom-foto img.kolom-foto1 {
+    position: absolute;
+    width: 279.72px;
+    height: 360px;
+    left: 125px;
+    top: 2985.67px;
+
+   
+    border-radius: 10px;
+}
+
+.kolom-foto img.kolom-foto2 {
+    position: absolute;
+    width: 279.72px;
+    height: 360px;
+    left: 475px;
+    top: 2985.67px;
+
+    
+    border-radius: 10px;
+}
+
+.kolom-foto img.kolom-foto3 {
+    position: absolute;
+    width: 279.72px;
+    height: 360px;
+    right: 475px;
+    top: 2985.67px;
+
+    
+    border-radius: 10px;
+}
+
+.kolom-foto img.kolom-foto4{
+    position: absolute;
+    width: 279.72px;
+    height: 360px;
+    right: 125px;
+    top: 2985.67px;
+
+    border-radius: 10px;
+}
+
+.container-left h3.container-akhir {
+    position: absolute;
+    width: 420px;
+    height: 40px;
+    left: 80px;
+    top: 3628.67px;
+
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 42px;
+    line-height: 40px;
+    
+    color: #012A40;
+}
+
+.container-left p.container-akhir {
+    position: absolute;
+    width: 624px;
+    height: 64px;
+    left: 80px;
+    top: 3691.67px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+  
+    color: #012A40;
+}
+
+.container-left p.more-container-akhir {
+    position: absolute;
+    width: 111px;
+    height: 40px;
+    left: 83px;
+    top: 3814px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 40px;
+  
+    color: #1FD5EE;
+}
+
+.container img.container-akhir {
+    
+    width: 558.22px;
+    height: 445.1px;
+    left: 766px;
+    margin-top: 3465.67px;
+
+    box-sizing: border-box;
+    
+    width: 558.22px;
+    height: 445.1px;
+    left: 801.78px;
+    top: 3501.45px;
+
+    border: 3px solid #1FD5EE;
+
+    
+}
+
+
